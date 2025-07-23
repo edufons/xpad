@@ -1,4 +1,4 @@
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O514FGIG)
+(fork to test my own 8bitdo controller)
 
 # Updated Xpad Linux Kernel Driver
 Driver for the Xbox/ Xbox 360/ Xbox 360 Wireless/ Xbox One Controllers
